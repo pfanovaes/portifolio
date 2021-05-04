@@ -2,28 +2,30 @@
 <body>
 
 <div class="wrap">
+    
         <header class="header">
+            <div class="header-content">
+                <div class="overlay">
+                    <div class="typewriter">
+                        <h1 class="title">&lt; PatriciaNovaes / &gt;</h1>
+                    </div>
+                    <h2 class="description">Desenvolvedora Front-End</h2>
             
-            <div class="overlay">
-                <div class="typewriter">
-                    <h1 class="title">&lt; PatriciaNovaes / &gt;</h1>
+                    <nav class="navigation">
+                        <ul class="navigation-list">
+                            <li class="navigation-icons"><a href="#about" class="navigation-link"><i class="fas fa-user"></i></a></li>
+                            <li class="navigation-icons"><a href="#artigos" class="navigation-link"><i class="fas fa-file"></i></a></li>
+                            <li class="navigation-icons"><a href="#projetos" class="navigation-link"><i class="fas fa-project-diagram"></i></a></li>
+                            <li class="navigation-icons"><a href="https://twitter.com/pixlrose" target="_blank" class="navigation-link"><i class="fab fa-twitter-square"></i></a></li>
+                            <li class="navigation-icons"><a href="https://github.com/pfanovaes" target="_blank" class="navigation-link"><i class="fab fa-github-square"></i></a></li>
+                            <li class="navigation-icons"><a href="https://www.linkedin.com/in/patricia-novaes/" target="_blank" class="navigation-link"><i class="fab fa-linkedin"></i></a></li>
+                            <li class="navigation-icons"><a href="https://www.twitch.tv/pixlrose" target="_blank" class="navigation-link"><i class="fab fa-twitch"></i></a></li>
+                            <li class="navigation-icons"><a href="https://www.instagram.com/pxlrose/" target="_blank" class="navigation-link"><i class="fab fa-instagram-square"></i></a></li>
+                            <li class="navigation-icons"><a href="https://codepen.io/pfanovaes" target="_blank" class="navigation-link"><i class="fab fa-codepen"></i></a></li>
+                            <li class="navigation-icons"><a href="#contato" class="navigation-link"><i class="fas fa-envelope"></i></a></li>
+                        </ul>
+                    </nav>
                 </div>
-                <h2 class="description">Desenvolvedora Front-End</h2>
-        
-                <nav class="navigation">
-                    <ul class="navigation-list">
-                        <li class="navigation-icons"><a href="#about" class="navigation-link"><i class="fas fa-user"></i></a></li>
-                        <li class="navigation-icons"><a href="#artigos" class="navigation-link"><i class="fas fa-file"></i></a></li>
-                        <li class="navigation-icons"><a href="#projetos" class="navigation-link"><i class="fas fa-project-diagram"></i></a></li>
-                        <li class="navigation-icons"><a href="https://twitter.com/pixlrose" target="_blank" class="navigation-link"><i class="fab fa-twitter-square"></i></a></li>
-                        <li class="navigation-icons"><a href="https://github.com/pfanovaes" target="_blank" class="navigation-link"><i class="fab fa-github-square"></i></a></li>
-                        <li class="navigation-icons"><a href="https://www.linkedin.com/in/patricia-novaes/" target="_blank" class="navigation-link"><i class="fab fa-linkedin"></i></a></li>
-                        <li class="navigation-icons"><a href="https://www.twitch.tv/pixlrose" target="_blank" class="navigation-link"><i class="fab fa-twitch"></i></a></li>
-                        <li class="navigation-icons"><a href="https://www.instagram.com/pxlrose/" target="_blank" class="navigation-link"><i class="fab fa-instagram-square"></i></a></li>
-                        <li class="navigation-icons"><a href="https://codepen.io/pfanovaes" target="_blank" class="navigation-link"><i class="fab fa-codepen"></i></a></li>
-                        <li class="navigation-icons"><a href="#contato" class="navigation-link"><i class="fas fa-envelope"></i></a></li>
-                    </ul>
-                </nav>
             </div>
         </header>
 
@@ -42,11 +44,11 @@
             
         </section>
 
-        <section class="articles">
+        <section class="projects">
         
         </section>
 
-        <section class="projects">
+        <section class="articles">
         
         </section>
 
